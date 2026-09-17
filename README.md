@@ -30,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/prachilamkhade/LeetCode-/tree/master/0024-swap-nodes-in-pairs) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/prachilamkhade/LeetCode-/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/prachilamkhade/LeetCode-/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
