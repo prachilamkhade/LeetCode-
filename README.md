@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/prachilamkhade/LeetCode-/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/prachilamkhade/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/prachilamkhade/LeetCode-/tree/master/0344-reverse-string) |
 | [1903-largest-odd-number-in-string](https://github.com/prachilamkhade/LeetCode-/tree/master/1903-largest-odd-number-in-string) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prachilamkhade/LeetCode-/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/prachilamkhade/LeetCode-/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/prachilamkhade/LeetCode-/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/prachilamkhade/LeetCode-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
