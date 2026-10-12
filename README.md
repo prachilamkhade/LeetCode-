@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/prachilamkhade/LeetCode-/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/prachilamkhade/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/prachilamkhade/LeetCode-/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/prachilamkhade/LeetCode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/prachilamkhade/LeetCode-/tree/master/0344-reverse-string) |
 | [1903-largest-odd-number-in-string](https://github.com/prachilamkhade/LeetCode-/tree/master/1903-largest-odd-number-in-string) |
 ## Math
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prachilamkhade/LeetCode-/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/prachilamkhade/LeetCode-/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/prachilamkhade/LeetCode-/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prachilamkhade/LeetCode-/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/prachilamkhade/LeetCode-/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
