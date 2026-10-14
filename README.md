@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/prachilamkhade/LeetCode-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/prachilamkhade/LeetCode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/prachilamkhade/LeetCode-/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/prachilamkhade/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [1903-largest-odd-number-in-string](https://github.com/prachilamkhade/LeetCode-/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/prachilamkhade/LeetCode-/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/prachilamkhade/LeetCode-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/prachilamkhade/LeetCode-/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/prachilamkhade/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -60,4 +62,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/prachilamkhade/LeetCode-/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/prachilamkhade/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/prachilamkhade/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/prachilamkhade/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/prachilamkhade/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
