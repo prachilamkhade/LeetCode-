@@ -1,27 +1,15 @@
 class Solution {
     public boolean isPalindrome(String s) {
-
-    String str=s.replaceAll("[^a-zA-Z0-9]","");
-    str=str.toLowerCase();
-    int l=0;
-    int r=str.length()-1;
-
-     return checkPalin( str, l,r);
-        
-    }
-
+         s=s.replaceAll("[^a-zA-Z0-9]","").toLowerCase();
     
+        char[] arr=s.toCharArray();
 
-    boolean checkPalin(String str,int l,int r){
-        if(l>=r){
-            return true;
+        for(int i=0;i<arr.length/2;i++){
+
+            if(!(arr[i]==arr[arr.length-1-i])){
+                return false;
+            }
         }
-
-        if(str.charAt(l)!=str.charAt(r)){
-            return false;
-        }
-
-        return checkPalin(str, l+1, r-1);
-       
+    return true;
     }
 }
